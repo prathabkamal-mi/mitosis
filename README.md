@@ -1,2 +1,3 @@
 # mitosis
-k got it 
+print "hello world"
+
